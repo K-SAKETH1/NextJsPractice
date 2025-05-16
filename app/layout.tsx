@@ -1,4 +1,4 @@
-import "../app/ui/fonts";
+import "../app/ui/global.css";
 import { inter, areYouSerious, openSans } from "./ui/fonts";
 export default function RootLayout({
   children,
